@@ -1,0 +1,3 @@
+﻿  CSVReaderWriter.cpp
+E:\С++\CSVReaderWriter\CSVReaderWriter.cpp(12,12): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  CSVReaderWriter.vcxproj -> E:\С++\CSVReaderWriter\x64\Debug\CSVReaderWriter.exe
